@@ -4,5 +4,5 @@ This repository contains all my submissions to the assignments done during my st
 
 # Members
 1. Sai Aditya 200050111
-2. Yash Malapalli 200050160
+2. Yash Mailapalli 200050160
 3. Yash Vardhan 200050162
